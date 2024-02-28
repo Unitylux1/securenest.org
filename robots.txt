@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*.php
+Disallow: /*.xml
+Disallow: /*.js
+Disallow: /*.css
+Disallow: /*.png
+Disallow: /*.jpg
+Disallow: /*.jpeg
+Disallow: /*.gif
