@@ -8,3 +8,4 @@ Disallow: /*.jpg
 Disallow: /*.jpeg
 Disallow: /*.gif
 Disallow: */feed/*
+Disallow: /*?p=
